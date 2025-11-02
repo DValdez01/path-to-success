@@ -229,12 +229,13 @@ td {
 
 
 footer {
-    padding: 30px;
+    padding: 0 30px 30px 30px;
     color: var(--White);
     font-size: 80%;
     display:flex;
     gap: 100px;
     margin-left: 40px;
+    background-color: var(--Purple);
 }
 
 footer a {
